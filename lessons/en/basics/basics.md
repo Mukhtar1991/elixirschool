@@ -276,5 +276,5 @@ String concatenation uses the `<>` operator:
 iex> name = "Sean"
 "Sean"
 iex> "Hello " <> name
-"Hello Sean"
+"HelloSean"
 ```
